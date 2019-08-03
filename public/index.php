@@ -5,6 +5,6 @@
     <title>Hello World</title>
   </head>
   <body>
-    Hello World. the time is <?php echo date("h:i:sa"); ?>
+    Hello World. The time is <?php echo date("h:i:sa"); ?>
   </body>
 </html>
