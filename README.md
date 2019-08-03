@@ -13,9 +13,9 @@ learn how to install Docker at http://docs.docker.com/engine/installation/.
 Next, you need to build the Docker image. You can do this by running the
 `./build.sh` command.
 
-After building, run the `./run.bash` script from your command line to start a
+After building, run the `./run.sh` script from your command line to start a
 local Docker instance serving the website. You'll be able to access it at
-http://localhost on Linux or http://192.168.99.100 (by default) on Mac OS X.
+http://0.0.0.0:90.
 
 ## Accessing the container
 
