@@ -22,7 +22,7 @@ http://0.0.0.0:90.
 If something doesn't work with your application, you might want to connect to a
 shell on the machine so that you can investigate further.
 
-Run `docker exec -it docker-php-hello-world bash` to open a Bash shell as root
+Run `docker exec -it ichtrojan/php-hello-world bash` to open a Bash shell as root
 in your Docker container. Then, you can run commands as you would on any other
 server.
 
